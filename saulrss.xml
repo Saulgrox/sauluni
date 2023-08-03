@@ -10,5 +10,10 @@
   <link>https://saulgrox.github.io/sauluni/AIthoughts.html</link>
   <description> My thoughts on Artifical Intelligence</description>
   </item>
+  <item>
+  <title>i just made an RSS feede</title>
+  <link>https://saulgrox.github.io/sauluni/RSSfeed.html</link>
+  <description>added an RSS feed</description>
+  </item>
   </channel>
   </rss>
