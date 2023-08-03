@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+ <title>Saul World</title>
+ <link>https://saulgrox.github.io/sauluni/Saulworld.html</link>
+ <description>Personal website made</description>
+ <item>
+  <title>Thoughts on Artifical Intelligence</title>
+  <link>https://saulgrox.github.io/sauluni/AIthoughts.html</link>
+  <description> My thoughts on Artifical Intelligence</description>
+  </item>
+  </channel>
+  </rss>
