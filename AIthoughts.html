@@ -74,9 +74,9 @@ color: red;
     </style>
 </head>
  
-<body><img style="position: fixed; top: 0px; left:0px; padding: 0px;" src="raymoospin.webp" width="7%"/>
-		<img style="position: fixed; top: 0px; right:0px; padding: 0px; -webkit-transform: scaleX(-1); transform: scaleX(-1);" src="raymoospin.webp" width="7%"/>
-    <div class="Ame">Saul universe</div>
+<body><img id="raymoo" onclick = "this.style.display='none'"; style="position:top: 0px; left:0px; padding: 0px;" src="raymoospin.webp" width="7%"/>
+		<img id="raymoo2" onclick = "this.style.display='none'"; style="position: absolute; top: 0px; right:0px; padding: 0px; -webkit-transform: scaleX(-1); transform: scaleX(-1);" src="raymoospin.webp" width="7%"/>
+    <div class="Ame" onclick="func()">Saul universe</div>
     <div class="Am">
     The Saul world
     </div>
@@ -114,7 +114,18 @@ color: red;
 <a href="Saulblog.html">Return</a>
 </center>
 
+<script>
 
+function func(){
+
+document.getElementById("raymoo").style.display = "block";
+
+
+document.getElementById("raymoo2").style.display = "block";
+}
+
+
+</script>
   
     
     
